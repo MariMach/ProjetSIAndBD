@@ -1,0 +1,62 @@
+package WEB;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import DAO.Laboratoiresfunctions;
+import DAO.equipefunctions;
+
+/**
+ * Servlet implementation class labosupp
+ */
+@WebServlet("/labosupp")
+public class labosupp extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public labosupp() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+    
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+		
+		  request.setAttribute("errorMessage", "Laboratoire supprime");
+
+			 RequestDispatcher rd = request.getRequestDispatcher("EspaceAdministrateurLaboratoire.jsp");
+	        rd.forward(request, response);
+	}
+
+
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+		
+		
+		String id_laboratoire = request.getParameter("id_laboratoire");
+
+		int m = Integer.parseInt(id_laboratoire);
+		
+		
+		Laboratoiresfunctions.deletelab(m);
+		
+
+		
+      
+	}
+
+}
