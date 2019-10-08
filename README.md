@@ -1,6 +1,9 @@
 # ProjetSIAndBD
 Système d’Information de Gestion du budget de fonctionnement d’un Centre de Recherche.
+
+
 En utilisant Java EE servlet/jsp et oracle database.
+Environnements de développement : Eclipse
 
 L’objectif de ce sujet est de mettre en place d’un système paramétrable pour la gestion automatisée du budget de fonctionnement d’un Centre de recherche, et l’implémenter au niveau du « Rabat IT Center » de l’Université Mohammed C de Rabat (www.rabat-it-center.org)
 
