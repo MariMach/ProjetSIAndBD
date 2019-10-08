@@ -83,3 +83,30 @@ Les Responsables de structure de recherche :
 	Création des structures de recherche.
 	Administration des structures de recherche (affectation des chercheurs aux structures, etc.).
 
+
+
+![sqlscripts](https://user-images.githubusercontent.com/39934426/66368058-c6b6b000-e98e-11e9-8b72-4e249273f707.png)
+![administrateurbienvenu](https://user-images.githubusercontent.com/39934426/66368059-c6b6b000-e98e-11e9-84dd-cb79d40d6256.png)
+![administrateurchercheur1](https://user-images.githubusercontent.com/39934426/66368060-c6b6b000-e98e-11e9-891c-570a7bca6883.png)
+![administrateurchercheur2](https://user-images.githubusercontent.com/39934426/66368061-c6b6b000-e98e-11e9-98b7-17b3c39b3b79.png)
+![administrateurequipe1](https://user-images.githubusercontent.com/39934426/66368062-c6b6b000-e98e-11e9-8a1e-aa4fff6c2bfb.png)
+![administrateurequipe2](https://user-images.githubusercontent.com/39934426/66368064-c74f4680-e98e-11e9-95e3-02d40228b48d.png)
+![administrateurlaboratoire](https://user-images.githubusercontent.com/39934426/66368065-c74f4680-e98e-11e9-9737-0466fb50f1f2.png)
+![administrateurresponsable1](https://user-images.githubusercontent.com/39934426/66368066-c74f4680-e98e-11e9-9695-d14a2b0521c9.png)
+![administrateurresponsable2](https://user-images.githubusercontent.com/39934426/66368068-c7e7dd00-e98e-11e9-91fc-64220d43fca9.png)
+![administrationdirecteur](https://user-images.githubusercontent.com/39934426/66368069-c7e7dd00-e98e-11e9-9222-ce4a0bb1d4a0.png)
+![Annotation2](https://user-images.githubusercontent.com/39934426/66368070-c7e7dd00-e98e-11e9-9fa6-8c4b3a72cb82.png)
+![chercheurhist](https://user-images.githubusercontent.com/39934426/66368071-c7e7dd00-e98e-11e9-8e54-4949e0aa2563.png)
+![chercheurlab5](https://user-images.githubusercontent.com/39934426/66368072-c7e7dd00-e98e-11e9-8419-c4f3c95fc861.png)
+![chercheurtableu](https://user-images.githubusercontent.com/39934426/66368073-c8807380-e98e-11e9-9d69-3c42371c09c0.png)
+![directeurbienvenue](https://user-images.githubusercontent.com/39934426/66368074-c8807380-e98e-11e9-8250-55f0af312511.png)
+![directeurcentre](https://user-images.githubusercontent.com/39934426/66368075-c8807380-e98e-11e9-9072-99c8f2566a4e.png)
+![directeurdemande](https://user-images.githubusercontent.com/39934426/66368076-c8807380-e98e-11e9-980c-ee4841236325.png)
+![directeurgcat1](https://user-images.githubusercontent.com/39934426/66368077-c8807380-e98e-11e9-9f3c-8b2cbac15eda.png)
+![directeurgcat2](https://user-images.githubusercontent.com/39934426/66368078-c9190a00-e98e-11e9-86d5-5178cfd43438.png)
+![directeurgcat3](https://user-images.githubusercontent.com/39934426/66368079-c9190a00-e98e-11e9-8708-d98ad9387cb6.png)
+![directeurtableau](https://user-images.githubusercontent.com/39934426/66368080-c9190a00-e98e-11e9-953f-ead93482846d.png)
+![responsabledemande](https://user-images.githubusercontent.com/39934426/66368081-c9190a00-e98e-11e9-9e5c-5e036f6890b1.png)
+![responsablelabo](https://user-images.githubusercontent.com/39934426/66368082-c9b1a080-e98e-11e9-8674-181e07df1004.png)
+![responsablelabopopup](https://user-images.githubusercontent.com/39934426/66368083-c9b1a080-e98e-11e9-91df-67cd2c9dd688.png)
+
